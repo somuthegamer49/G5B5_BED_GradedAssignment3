@@ -1,0 +1,38 @@
+.navbarticket{
+    background-color: cadetblue;
+}
+.text-box{
+    width: 20rem;
+}
+.search{
+    background-color: cadetblue;
+    border-radius: 5px;
+}
+table,td,th{
+    background-color: rgb(72, 63, 63);
+}
+.box{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(228, 217, 217);
+}
+.box1{
+    width: 35rem;
+    border: 1px solid black;
+}
+.box-inp-width{
+    width: 30rem;
+    border-width: 2px;
+}
+.box-inp-width1{
+    width: 30rem;
+    border-width: 2px;
+    height: 5rem;
+}
+.sub-btn{
+    display: flex;
+    justify-content: center;
+}
+.flex{
+	display: flex;
+}
